@@ -67,7 +67,7 @@ spring.datasource.password=tu_contraseña
 spring.jpa.hibernate.ddl-auto=update
 ```
 
-### Ejecuta LiteraturaApplication en tu IDE
+### Ejecuta DesafioliteraturaApplication en tu IDE
 Al ejecutar la aplicación, se mostrará un menú en la consola con las siguientes opciones:
 ```
 |---------------------------------------------------|
