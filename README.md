@@ -1,6 +1,6 @@
 # Proyecto Literatura - AluraLatam
 
-![Captura de pantalla 2025-07-25](<img width="1855" height="803" alt="Captura de pantalla 2025-07-25 161458" src="https://github.com/user-attachments/assets/0c54aa70-9810-4b84-a576-2c10f8bb0f57" />
+(<img width="1855" height="803" alt="Captura de pantalla 2025-07-25 161458" src="https://github.com/user-attachments/assets/0c54aa70-9810-4b84-a576-2c10f8bb0f57" />
 )
 
 
