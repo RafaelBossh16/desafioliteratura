@@ -1,14 +1,14 @@
-# Proyecto Literatura - AluraLatam
+# Proyecto Challenge Literalura - AluraLatam
 
 ![A7RMJPD2BSTN53P36LXGYSO77E](https://github.com/user-attachments/assets/841eed92-5f5e-4596-a0d5-d567a594164b)
 
 <img width="1855" height="803" alt="Captura de pantalla 2025-07-25 161458" src="https://github.com/user-attachments/assets/0c54aa70-9810-4b84-a576-2c10f8bb0f57" />
 
-Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente.
+Bienvenido al proyecto Literalura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente.
 
 ## Descripción del Proyecto 
 
-El proyecto literAlura está diseñado para ayudar a los amantes de la literatura a buscar, registrar y listar libros y autores correspondientes. También ofrece funcionalidades avanzadas como listar autores vivos en un determinado año y listar libros por idioma.
+El proyecto Literalura está diseñado para ayudar a los amantes de la literatura a buscar, registrar y listar libros y autores correspondientes. También ofrece funcionalidades avanzadas como listar autores vivos en un determinado año y listar libros por idioma.
 
 ### Características del Programa
 
