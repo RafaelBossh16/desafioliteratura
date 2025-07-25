@@ -6,6 +6,8 @@
 
 Bienvenido al proyecto Literalura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente.
 
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/35f488e8-3cc9-439e-8ee9-52e0ad90bbab" />
+
 ## Descripción del Proyecto 
 
 El proyecto Literalura está diseñado para ayudar a los amantes de la literatura a buscar, registrar y listar libros y autores correspondientes. También ofrece funcionalidades avanzadas como listar autores vivos en un determinado año y listar libros por idioma.
