@@ -3,9 +3,10 @@
 ![A7RMJPD2BSTN53P36LXGYSO77E](https://github.com/user-attachments/assets/841eed92-5f5e-4596-a0d5-d567a594164b)
 
 <br>
-<br>
 
 <img width="1855" height="803" alt="Captura de pantalla 2025-07-25 161458" src="https://github.com/user-attachments/assets/0c54aa70-9810-4b84-a576-2c10f8bb0f57" />
+
+<br>
 
 Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente.
 
